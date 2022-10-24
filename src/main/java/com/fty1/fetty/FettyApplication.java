@@ -1,4 +1,4 @@
-package fetty;
+package com.fty1.fetty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
